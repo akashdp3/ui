@@ -1,2 +1,2 @@
-# ui
+# @akashdp/ui
 Design system
