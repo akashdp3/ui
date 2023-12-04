@@ -13,10 +13,6 @@ overrides:
 importers:
 
   .:
-    dependencies:
-      typescript:
-        specifier: ^5.3.2
-        version: 5.3.2
     devDependencies:
       '@types/node':
         specifier: ^20.8.10
@@ -33,6 +29,14 @@ importers:
       prettier:
         specifier: ^3.0.3
         version: 3.0.3
+
+  packages/components:
+    dependencies:
+      typescript:
+        specifier: ^5.3.2
+        version: 5.3.2
+
+  packages/design-tokens: {}
 
 packages:
 
