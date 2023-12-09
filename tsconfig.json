@@ -4,7 +4,7 @@
     "composite": true /* Enable constraints that allow a TypeScript project to be used with project references. */,
     "target": "es2016" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
     "module": "commonjs" /* Specify what module code is generated. */,
-    "rootDir": "src" /* Specify the root folder within your source files. */,
+    "rootDir": "packages" /* Specify the root folder within your source files. */,
     "types": [] /* Specify type package names to be included without being referenced in a source file. */,
     "declaration": true /* Generate .d.ts files from TypeScript and JavaScript files in your project. */,
     "outDir": "dist" /* Specify an output folder for all emitted files. */,
