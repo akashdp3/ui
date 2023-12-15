@@ -33,6 +33,7 @@ The component will have one custom element defination
 ### Examples
 
 Sample Button
+
 ```html
 <host>
   <wc-button variant="primary">Click me</wc-button>
@@ -40,6 +41,7 @@ Sample Button
 ```
 
 Sample Button with Icons
+
 ```html
 <host>
   <wc-button>

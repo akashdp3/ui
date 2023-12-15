@@ -1,4 +1,4 @@
-import { LitElement, html, css } from 'lit';
+import { LitElement, css } from 'lit';
 import { customElement, property } from 'lit/decorators';
 
 @customElement('wc-button')
@@ -9,7 +9,11 @@ export class WCButton extends LitElement {
     public variant? = 'secondary';
 
     @property({ type: String })
-    public type?: string = "button"
+    public type? = 'button';
 
-    @property
+    @property({ type: Boolean })
+    public autoFocus? = false;
+
+    @property({ type: Boolean })
+    public disabled? = false;
 }
