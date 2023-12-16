@@ -1,6 +1,7 @@
-import { html, css, LitElement } from 'lit';
+import { css, html } from 'lit';
+import { WebComponent } from './src/WebComponent.primitive';
 
-export class SimpleGreeting extends LitElement {
+export class SimpleGreeting extends WebComponent {
     static styles = css`
         p {
             color: blue;

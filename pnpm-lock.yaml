@@ -30,6 +30,9 @@ importers:
       '@web/dev-server':
         specifier: ^0.4.1
         version: 0.4.1
+      typescript:
+        specifier: ^5.3.3
+        version: 5.3.3
 
   packages/design-tokens:
     devDependencies:
