@@ -1,8 +1,8 @@
-import { LitElement, css } from 'lit';
+import { WebComponent, css } from '@akashdp/core';
 import { customElement, property } from 'lit/decorators';
 
 @customElement('wc-button')
-export class WCButton extends LitElement {
+export class WCButton extends WebComponent {
     static override styles = css``;
 
     @property({ type: String })
