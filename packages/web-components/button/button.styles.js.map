@@ -1,0 +1,1 @@
+{"version":3,"file":"button.styles.js","sourceRoot":"","sources":["../src/button/button.styles.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,eAAe,CAAC;AAEpC,MAAM,CAAC,MAAM,YAAY,GAAG,GAAG,CAAA;;;;CAI9B,CAAC","sourcesContent":["import { css } from '@akashdp/core';\n\nexport const buttonStyles = css`\n    button {\n        padding: 4px 12px;\n    }\n`;\n"]}
