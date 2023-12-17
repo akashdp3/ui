@@ -1,1 +1,0 @@
-{"version":3,"file":"button.template.js","sourceRoot":"","sources":["../src/button/button.template.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,eAAe,CAAC;AAErC,MAAM,CAAC,MAAM,cAAc,GAAG,IAAI,CAAA,iCAAiC,CAAC","sourcesContent":["import { html } from '@akashdp/core';\n\nexport const buttonTemplate = html`<button>Sample Button</button> `;\n"]}

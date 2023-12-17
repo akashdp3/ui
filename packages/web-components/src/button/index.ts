@@ -1,1 +1,0 @@
-export { WCButton } from './button';
