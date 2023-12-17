@@ -27,3 +27,4 @@ In simple terms, it is one of many ways to create reusable UI elements. The main
 - [Adobe - Spectrum Web Components](https://opensource.adobe.com/spectrum-web-components/registry-conflicts/)
 - [Mircrosoft - Fast](https://github.com/microsoft/fast)
 - [davatron5000 - awesome-standalones](https://github.com/davatron5000/awesome-standalones)
+- [Lightning Design System](https://www.lightningdesignsystem.com/)
