@@ -1,5 +1,5 @@
 import { WebComponent } from '@akashdp/core';
-import { customElement, property } from 'lit/decorators';
+import { customElement, property } from 'lit/decorators.js';
 
 import { buttonTemplate } from './button.template';
 import { buttonStyles } from './button.styles';
